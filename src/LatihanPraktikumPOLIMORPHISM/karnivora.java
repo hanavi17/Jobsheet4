@@ -20,14 +20,14 @@ public class karnivora {
         
         System.out.println("===== HEWAN KUCING =====");
         kucing k = new kucing();
-        h.setNama();
-        h.setSuara();
-        h.setBerat();
+        k.setNama();
+        k.setSuara();
+        k.setBerat();
         
         System.out.println("===== HEWAN SINGA =====");
         singa s = new singa();
-        h.setNama();
-        h.setSuara();
-        h.setBerat();
+        s.setNama();
+        s.setSuara();
+        s.setBerat();
     }
 }
