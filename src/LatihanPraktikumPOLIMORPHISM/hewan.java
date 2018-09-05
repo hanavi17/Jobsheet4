@@ -12,7 +12,7 @@ package LatihanPraktikumPOLIMORPHISM;
 class hewan {
     void setNama(){
         String hewan = "Tidak Bernama";
-        System.out.println("Nama Hewan:"+hewan);
+        System.out.println("Nama Hewan: "+hewan);
     }
     
     void setSuara(){
